@@ -27,6 +27,10 @@ Personal portfolio website developed using HTML, CSS and JavaScript.
 ### Spotify Clone
 Responsive Spotify UI clone.
 
+## 🐍 Contribution Snake
+
+![Snake Animation](https://github.com/sreeja-charani/sreeja-charani/blob/output/github-contribution-grid-snake.svg)
+
 ## 📫 Connect With Me
 
 GitHub: https://github.com/sreeja-charani
