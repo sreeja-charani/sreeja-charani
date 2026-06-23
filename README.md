@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Kandi Sreeja
 
-<!--
-**sreeja-charani/sreeja-charani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer | Software Engineer | Charani Info Tech
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Full Stack Developer at Charani Info Tech
+- 🌱 Learning Spring Boot, React.js and Microservices
+- 💻 Passionate about Web Development
+
+## 🛠️ Skills
+
+- Java
+- Spring Boot
+- React.js
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Git & GitHub
+
+## 🚀 Projects
+
+### Portfolio Website
+Personal portfolio website developed using HTML, CSS and JavaScript.
+
+### Spotify Clone
+Responsive Spotify UI clone.
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/sreeja-charani
